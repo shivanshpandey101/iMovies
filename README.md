@@ -118,5 +118,5 @@ For quick testing and college evaluation demonstrations:
   * Password: `admin1234`
 * **User Login:**
   * URL: `http://localhost:5173/login`
-  * Email: `tanishq@example.com`
+  * Email: `user@example.com`
   * Password: `user1234`
